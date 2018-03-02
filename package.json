@@ -1,0 +1,11 @@
+{
+  "name": "Lena",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kasatka660/yarn-gulp_template.git",
+  "author": "Lena <lenach241@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.0.0"
+  }
+}
